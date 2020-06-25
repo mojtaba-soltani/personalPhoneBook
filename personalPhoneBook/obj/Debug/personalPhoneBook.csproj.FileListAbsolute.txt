@@ -1,0 +1,11 @@
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\bin\Debug\personalPhoneBook.exe.config
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\bin\Debug\personalPhoneBook.exe
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\bin\Debug\personalPhoneBook.pdb
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.csprojAssemblyReference.cache
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.personalPhoneBook.resources
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.Properties.Resources.resources
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.csproj.GenerateResource.cache
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.exe
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.pdb
+C:\Users\mojtaba\source\repos\personalPhoneBook\personalPhoneBook\obj\Debug\personalPhoneBook.addOrEditPerson.resources
